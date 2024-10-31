@@ -1,4 +1,5 @@
 # Halloween Mash-Up Pack
+[https://github.com/nawrek/mc3ds-halloween-port/blob/4a4860f0e6ed927f7fcb814a8a8f91edb494f33e/screenshots/art.jpg]
 ## Overwiew
 This is a Halloween Mash-Up pack port for Minecraft: New Nintendo 3DS Edition. It was meant to recreate most of features available in Legacy Console Editions of Minecraft.
 
