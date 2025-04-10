@@ -16,4 +16,12 @@ This is a Halloween Mash-Up pack port for Minecraft: New Nintendo 3DS Edition. I
 - Colormap - Not fully implemented.
 - Misc - Models, Painting, Particles, Flame Atlas - Done
 
-I made a bunch of textures myself, but all of the original textures used in this pack are property of Mojang and 4J-Studios.
+All of the original textures used in this pack are property of Mojang and 4J-Studios.
+
+## Legal
+
+This project is published without a license file attached and therefore defaults to all rights reserved by the repository owner, including copyright. Do not distribute this pack or modified versions of this pack without explicit permission.
+
+Halloween Mash-Up Pack port for MC3DS (mc3ds-halloween-port) © 2024-2025 nawrek
+
+All Rights Reserved.
